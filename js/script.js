@@ -1,6 +1,6 @@
 var ArrOfQuotes = [
   {
-    author: "--Oscar Wilde",
+    author: "--Moamen Eldeeb",
     quote: `“Be yourself; everyone else is already taken.”`,
   },
   { author: "--Frank Zappa", quote: `“So many books, so little time.”` },
@@ -9,11 +9,11 @@ var ArrOfQuotes = [
     quote: `“A room without books is like a body without a soul.”`,
   },
   {
-    author: "--Mae West",
+    author: "--Ahmed Nour Eldin",
     quote: `“You only live once, but if you do it right, once is enough.”`,
   },
   {
-    author: "--Mahatma Gandhi",
+    author: "--NoBody",
     quote: `“Be the change that you wish to see in the world.”`,
   },
   {
@@ -25,16 +25,16 @@ var ArrOfQuotes = [
     quote: `“We accept the love we think we deserve.”`,
   },
   {
-    author: "--Friedrich Nietzsche",
-    quote: `“Without music, life would be a mistake.”`,
+    author: "--Ahmed Harraz",
+    quote: `“Without Umm Kulthum, life would be a mistake.”`,
   },
   {
     author: "--Andre Gide",
     quote: `“It is better to be hated for what you are than to be loved for what you are not.”`,
   },
   {
-    author: "--Oscar Wilde",
-    quote: `“I am so clever that sometimes I don't understand a single word of what I am saying.”`,
+    author: "--Saleh Selim",
+    quote: `“Al-Ahly is above all”`,
   },
 ];
 
